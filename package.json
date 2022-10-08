@@ -27,5 +27,8 @@
   },
   "dependencies": {
     "vue": "^3.2.36"
+  },
+  "mac": { 
+    "target": "pkg"
   }
 }
